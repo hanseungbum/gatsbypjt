@@ -13,13 +13,8 @@ export default function AppHeader({seo}) {
     <nav className="navbar is-transparent mb-5 p-5">
       <div className="navbar-brand">
         <Link className="navbar-item" to="/">
-<<<<<<< HEAD
           {/* <h1 className="title">CODE_SPACE first source code</h1> */}
           <h1 className="title">HAN TECH BLOG</h1>
-=======
-            {/* <h1 className="title">CODE_SPACE source code</h1> */}
-            <h1 className="title">HAN_TECH_BLOG</h1>
->>>>>>> 7f9fca16295e8dc6f81725084e2150ca199fa4a6
         </Link>
         <div className="navbar-burger" data-target="navbarExampleTransparentExample">
           <span></span>
