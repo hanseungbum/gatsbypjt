@@ -16,6 +16,7 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-sass",
+    "gatsby-plugin-sitemap",
     {
       resolve: "gatsby-plugin-feed",
       options: rss.options
@@ -43,5 +44,28 @@ module.exports = {
       }
     },
     "gatsby-plugin-react-helmet",
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Code Space`,
+        short_name: `Code Space`,
+        start_url: `/`,
+        background_color: `#f7f0eb`,
+        theme_color: `#a2466c`,
+        display: `standalone`,
+        icon: "src/images/icon.png",
+        icons: [{
+          src: "src/images/icon.png",
+          sizes: "512x512",
+          type: "image/png",
+        }, {
+          src: "src/images/maskable_icon.png",
+          sizes: "192x192",
+          type: "image/png",
+          purpose: "any maskable"
+        }]
+      },
+    },
+    "gatsby-plugin-offline"
   ],
 };
