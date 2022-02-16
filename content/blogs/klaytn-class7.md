@@ -18,8 +18,8 @@ coverImage:
 
 2 구현 내용
     ㄱ. Klip 지갑 주소 가져오기 : Klip API
-    ㄴ. KLAY 잔고 조회 : ㄱ에서 가져온 주소로 getbalance
-    ㄷ. NFT 조회(유저, 마켓)
+    ㄴ. KLAY 잔고 조회 : caver-js(getbalance) 
+    ㄷ. NFT 조회(유저, 마켓) : caver-js
     ㄹ. NFT 발행 : Klip API
     ㅁ. NFT 판매(마켓에 전송) : Klip API
     ㅂ. NFT 구매 : Klip API
