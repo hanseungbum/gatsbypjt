@@ -28,3 +28,7 @@ publish directory
 build
 
 ## 전체 리뷰
+
+## 오류 발견
+js파일중 마지막에 영어 대문자면 netlify 에서 빌드할때 해당 파일을 찾지 못함
+> UseKAS.js -> UseKas.js 변경 후 배포 성공
