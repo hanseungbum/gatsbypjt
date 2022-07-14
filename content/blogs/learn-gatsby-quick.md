@@ -7,7 +7,7 @@ author: Filip Jerga
 rating: 1
 coverImage: https://cdn.sanity.io/images/55mm68d3/production/cf78a4e755382729b607067ec5e2633d915ce0ea-1200x628.jpg?h=600&fm=jpg&q=70
 ---
-
+ 
 # What are the benefits of the Next.JS framework?
 
 ## As we step into a new tomorrow, our hunger and need for innovation and creativity seem to perch itself a rung higher than ever.

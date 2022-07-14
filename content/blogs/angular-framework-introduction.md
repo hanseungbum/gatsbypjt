@@ -10,4 +10,4 @@ coverImage: https://files.cdn.thinkific.com/courses/course_card_image_000/846/12
 
 ## Quick introduction into amazing angular framework
 
-Quick introduction into amazing angular framework
+Quick introduction into amazing angular framework 

@@ -7,7 +7,7 @@ author: Filip Jerga
 rating: 3
 coverImage: https://cdn.sanity.io/images/55mm68d3/production/98d581fb1463a4ec94de31aa9ee7bb95ebc9c486-1400x933.jpg?h=600&fm=jpg&q=70
 ---
-
+ 
 # How to consume data in Next.js apps
 
 ## The way data is fetched on Next.js will affect the pre-rendering strategy applied. Do you know them?

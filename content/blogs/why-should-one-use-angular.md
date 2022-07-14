@@ -8,7 +8,7 @@ rating: 5
 coverImage: https://cdn.sanity.io/images/55mm68d3/production/79956e71c495a65556731eb6cd650ddd3922581b-750x422.jpg?h=600&fm=jpg&q=70
 ---
 
-# Why should one use Angular?
+# Why should one use Angular? 
 
 ## An Introduction to Angular, its pros & cons, and how it differs from other frameworks/libraries.
 

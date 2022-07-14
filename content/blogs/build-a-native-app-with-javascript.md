@@ -172,7 +172,7 @@ Youtube Guide: [https://youtu.be/VCl8li22mrA](https://youtu.be/VCl8li22mrA)
 Github Repo: [https://github.com/Jerga99/electron-react-boilerplate](https://github.com/Jerga99/electron-react-boilerplate)
 
 Have a nice day!
-
+ 
 Cheers,
 
 Filip

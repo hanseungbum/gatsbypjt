@@ -7,7 +7,7 @@ author: Filip Jerga
 rating: 4
 coverImage: https://cdn.sanity.io/images/55mm68d3/production/75b7a4b0f15c0f32c3555c749df6d4b86cd9d79f-1000x666.jpg?h=600&fm=jpg&q=70
 ---
-
+ 
 # Javascript reveal and module design patterns
 
 ## I decided to make an overview and examples of most common and known design patterns in JS that is good to know. Even today when there is plenty of frameworks like angular, react, vue, ember… and you think you do not need basics.
