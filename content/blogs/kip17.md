@@ -9,7 +9,7 @@ coverImage:
 ---
 
 # KIP17
-주소 : kips.klaytn.com
+주소 : kips.klaytn.com 
 클레이튼에서 상호작용하기 위한 내용
 
 주소 : https://github.com/klaytn

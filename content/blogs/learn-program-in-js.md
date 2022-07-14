@@ -7,7 +7,7 @@ author: Filip Jerga
 rating: 3
 coverImage: https://import.cdn.thinkific.com/335268/8R9DeheYS8CP1Wrtm5Gk_javascript.jpg
 ---
-
+ 
 ## Emphasis
 
 **This is bold text**

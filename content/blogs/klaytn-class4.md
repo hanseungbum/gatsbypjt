@@ -9,7 +9,7 @@ coverImage:
 ---
 
 # klayten doc
-uri : https://ko.docs.klaytn.com/
+uri : https://ko.docs.klaytn.com/ 
 참고
 
 # 오늘의 할일

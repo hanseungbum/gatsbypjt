@@ -10,7 +10,7 @@ coverImage:
 ## Bapp을 사용하기 위해선
 개인키 필요
 : 개인이 어떻게 개인키를 사용하게 할 수 있는지
-<- KlIP API 사용
+<- KlIP API 사용 
 ## klip api 이해
 
 prepare -> request -> result

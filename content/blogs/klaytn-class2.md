@@ -10,7 +10,7 @@ coverImage:
 
 # NFTsimple.sol source
 
-pragma solidity >=0.4.24 <0.5.6;
+pragma solidity >=0.4.24 <0.5.6; 
 
 contract IKIP17Receiver {
     function onKIP17Received(

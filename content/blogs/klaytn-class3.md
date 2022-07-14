@@ -10,7 +10,7 @@ coverImage:
 
 # 개발환경 설정
 리엑트 start 명령어
-: npx create-react-app klay-market
+: npx create-react-app klay-market 
 
 node package 설치
 +axios

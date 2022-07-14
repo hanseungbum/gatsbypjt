@@ -24,3 +24,4 @@ coverImage:
     ㅁ. NFT 판매(마켓에 전송) : Klip API
     ㅂ. NFT 구매 : Klip API
     ㅅ. 브라우저에서는 QR, 모바일에서는 바로 카카오톡 klip 지갑 앱으로 연동
+ 
